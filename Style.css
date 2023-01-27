@@ -12,7 +12,7 @@ body {
 .card {
     width: 300px;
     border-radius: 5%;
-    margin: 45px auto auto auto;
+    margin: 55px auto auto auto;
     padding: 13px;
     text-align: center;
     font-family: Outfit; 
@@ -32,15 +32,4 @@ body {
 img{
     border-radius: 5%;
     width: 300px;
-}
-
-.attribution { 
-    font-size: 13px; 
-    text-align: center; 
-    font-family: Outfit;
-    margin-top: 35px;
-}
-
-.attribution a { 
-    color: hsl(228, 45%, 44%); 
 }
